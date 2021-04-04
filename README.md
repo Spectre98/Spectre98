@@ -1,5 +1,5 @@
-### Hi there 👋
- <img src="https://www.codewars.com/users/Spectre98/badges/large">
+
+<img align="left" src="https://www.codewars.com/users/Spectre98/badges/large">
 <!--
 **Spectre98/Spectre98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
